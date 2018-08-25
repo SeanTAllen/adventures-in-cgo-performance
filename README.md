@@ -21,15 +21,18 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 
 ## References
 
-* [Golang website's cgo overview](https://golang.org/cmd/cgo/)
-* [cgo is not Go](https://dave.cheney.net/2016/01/18/cgo-is-not-go)
-* [The cost and complexity of cgo](https://www.cockroachlabs.com/blog/the-cost-and-complexity-of-cgo/)
-* [cgo: Passing Pointers](https://golang.org/cmd/cgo/#hdr-Passing_pointers)
 * [Pony](https://www.ponylang.org/)
 * [Wallaroo](https://github.com/wallaroolabs/wallaroo)
 * [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
 * [Adventures with cgo: Part 1- The Pointering](https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/)
 * [Adventures with cgo: Part 2- Locks and other things that go bump in the night](https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-2--locks-and-other-things-that-go-bump-in-the-night/)
+
+## Learning cgo references
+
+* [Golang website's cgo overview](https://golang.org/cmd/cgo/)
+* [cgo is not Go](https://dave.cheney.net/2016/01/18/cgo-is-not-go)
+* [The cost and complexity of cgo](https://www.cockroachlabs.com/blog/the-cost-and-complexity-of-cgo/)
+* [cgo: Passing Pointers](https://golang.org/cmd/cgo/#hdr-Passing_pointers)
 
 ## Additional References
 
@@ -38,4 +41,5 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [Go Atomic Package](https://golang.org/pkg/sync/atomic/)
 * [RWMutex scales poorly with CPU count](https://github.com/golang/go/issues/17973)
 * [DRWMutex vs RWMutex benchmark](https://github.com/jonhoo/drwmutex/)
-
+* [Wallaroo Concurrent Map](https://github.com/WallarooLabs/wallaroo/blob/e0953b6326327dff9f5f34d23239ec95e568e514/go_api/go/src/wallarooapi/concurrent_map.go)
+* [The TODO of death](https://golang.org/src/runtime/proc.go#L1771)
