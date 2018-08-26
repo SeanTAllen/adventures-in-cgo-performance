@@ -22,10 +22,15 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 ## References
 
 * [Pony](https://www.ponylang.org/)
-* [Wallaroo](https://github.com/wallaroolabs/wallaroo)
 * [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
 * [Adventures with cgo: Part 1- The Pointering](https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/)
 * [Adventures with cgo: Part 2- Locks and other things that go bump in the night](https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-2--locks-and-other-things-that-go-bump-in-the-night/)
+
+## Wallaroo references
+
+* [Wallaroo](https://github.com/wallaroolabs/wallaroo)
+* [Wallaroo Go API introduction](https://blog.wallaroolabs.com/2018/01/go-go-go-stream-processing-for-go/)
+* [Wallaroo Word Count example](https://github.com/WallarooLabs/wallaroo/tree/3b9446807df1ca34ba7171e07b0409d531bff26d/examples/go/word_count)
 
 ## Learning cgo references
 
@@ -36,7 +41,7 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 
 ## Additional References
 
-* [Wallaroo Go API introduction](https://blog.wallaroolabs.com/2018/01/go-go-go-stream-processing-for-go/)
+
 * [Copying Garbage Collection](http://www.cs.cornell.edu/courses/cs312/2003fa/lectures/sec24.htm)
 * [Go Atomic Package](https://golang.org/pkg/sync/atomic/)
 * [RWMutex scales poorly with CPU count](https://github.com/golang/go/issues/17973)
