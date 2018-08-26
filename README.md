@@ -37,6 +37,12 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [The cost and complexity of cgo](https://www.cockroachlabs.com/blog/the-cost-and-complexity-of-cgo/)
 * [cgo: Passing Pointers](https://golang.org/cmd/cgo/#hdr-Passing_pointers)
 
+## Cgo runtime references
+
+* [cgo runtime code](https://golang.org/src/runtime/cgo/)
+* [runtime/proc.go line 1771](https://golang.org/src/runtime/proc.go#L1771)
+* [runtime/cgocall.go](https://golang.org/src/runtime/cgocall.go)
+
 ## Additional References
 
 * [Copying Garbage Collection](http://www.cs.cornell.edu/courses/cs312/2003fa/lectures/sec24.htm)
@@ -44,6 +50,5 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [RWMutex scales poorly with CPU count](https://github.com/golang/go/issues/17973)
 * [DRWMutex vs RWMutex benchmark](https://github.com/jonhoo/drwmutex/)
 * [Wallaroo Concurrent Map](https://github.com/WallarooLabs/wallaroo/blob/e0953b6326327dff9f5f34d23239ec95e568e514/go_api/go/src/wallarooapi/concurrent_map.go)
-* [runtime/proc.go line 1771](https://golang.org/src/runtime/proc.go#L1771)
 * [Pony](https://www.ponylang.org/)
 * [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
