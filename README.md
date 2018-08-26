@@ -42,4 +42,4 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [RWMutex scales poorly with CPU count](https://github.com/golang/go/issues/17973)
 * [DRWMutex vs RWMutex benchmark](https://github.com/jonhoo/drwmutex/)
 * [Wallaroo Concurrent Map](https://github.com/WallarooLabs/wallaroo/blob/e0953b6326327dff9f5f34d23239ec95e568e514/go_api/go/src/wallarooapi/concurrent_map.go)
-* [The TODO of death](https://golang.org/src/runtime/proc.go#L1771)
+* [runtime/proc.go line 1771](https://golang.org/src/runtime/proc.go#L1771)
