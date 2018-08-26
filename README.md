@@ -19,10 +19,8 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [Pony](https://www.ponylang.org/)
 * [Pony Twitter](https://twitter.com/ponylang)
 
-## References
+## Blog posts by me on cgo
 
-* [Pony](https://www.ponylang.org/)
-* [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
 * [Adventures with cgo: Part 1- The Pointering](https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-1--the-pointering/)
 * [Adventures with cgo: Part 2- Locks and other things that go bump in the night](https://blog.wallaroolabs.com/2018/04/adventures-with-cgo-part-2--locks-and-other-things-that-go-bump-in-the-night/)
 
@@ -41,10 +39,11 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 
 ## Additional References
 
-
 * [Copying Garbage Collection](http://www.cs.cornell.edu/courses/cs312/2003fa/lectures/sec24.htm)
 * [Go Atomic Package](https://golang.org/pkg/sync/atomic/)
 * [RWMutex scales poorly with CPU count](https://github.com/golang/go/issues/17973)
 * [DRWMutex vs RWMutex benchmark](https://github.com/jonhoo/drwmutex/)
 * [Wallaroo Concurrent Map](https://github.com/WallarooLabs/wallaroo/blob/e0953b6326327dff9f5f34d23239ec95e568e514/go_api/go/src/wallarooapi/concurrent_map.go)
 * [runtime/proc.go line 1771](https://golang.org/src/runtime/proc.go#L1771)
+* [Pony](https://www.ponylang.org/)
+* [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
