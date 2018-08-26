@@ -43,12 +43,15 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [runtime/proc.go line 1771](https://golang.org/src/runtime/proc.go#L1771)
 * [runtime/cgocall.go](https://golang.org/src/runtime/cgocall.go)
 
-## Additional References
+## Go atomics package related references
 
-* [Copying Garbage Collection](http://www.cs.cornell.edu/courses/cs312/2003fa/lectures/sec24.htm)
 * [Go Atomic Package](https://golang.org/pkg/sync/atomic/)
 * [RWMutex scales poorly with CPU count](https://github.com/golang/go/issues/17973)
 * [DRWMutex vs RWMutex benchmark](https://github.com/jonhoo/drwmutex/)
+
+## Additional References
+
+* [Copying Garbage Collection](http://www.cs.cornell.edu/courses/cs312/2003fa/lectures/sec24.htm)
 * [Wallaroo Concurrent Map](https://github.com/WallarooLabs/wallaroo/blob/e0953b6326327dff9f5f34d23239ec95e568e514/go_api/go/src/wallarooapi/concurrent_map.go)
 * [Pony](https://www.ponylang.org/)
 * [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
