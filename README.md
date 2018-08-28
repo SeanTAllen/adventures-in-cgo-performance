@@ -36,6 +36,7 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 * [cgo is not Go](https://dave.cheney.net/2016/01/18/cgo-is-not-go)
 * [The cost and complexity of cgo](https://www.cockroachlabs.com/blog/the-cost-and-complexity-of-cgo/)
 * [cgo: Passing Pointers](https://golang.org/cmd/cgo/#hdr-Passing_pointers)
+* [#cgo channel in the Gopher Slack](https://gophers.slack.com)
 
 ## Cgo runtime references
 
