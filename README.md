@@ -60,3 +60,4 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 
 * [Pony](https://www.ponylang.org/)
 * [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
+* [Platform as a reflection of values: Joyent, Node.js, and Beyond](https://vimeo.com/230142234)
