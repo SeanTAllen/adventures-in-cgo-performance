@@ -8,7 +8,7 @@ I cover hard-won knowledge about using Cgo in performance sensitive code includi
 
 ## Versions of this talk
 
-* GopherCon 2018 - [Slides](https://speakerdeck.com/seantallen/adventures-in-cgo-preformance) | [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-adventures-in-cgo-performance/)
+* GopherCon 2018 - [Video](https://www.youtube.com/watch?v=71ggzBeHdmA) | [Slides](https://speakerdeck.com/seantallen/adventures-in-cgo-preformance) | [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-adventures-in-cgo-performance/)
 
 ## Links
 
